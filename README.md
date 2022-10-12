@@ -23,4 +23,4 @@ Below are screenshots of the main page and the measurement table, respectively, 
 
 ###### Website Repository:
 
-The website makes it possible to visualize electrical data obtained from the sensors. Please, visit the folowwing link: [voltage-current-multimeter-website](https://github.com/lvcasribeiro/voltage-current-multimeter-website).
+The website makes it possible to visualize electrical data obtained from the sensors. Please, visit the following link: [voltage-current-multimeter-website](https://github.com/lvcasribeiro/voltage-current-multimeter-website).
