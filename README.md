@@ -6,7 +6,7 @@ This code aim to capture all the electrical variables in the usage of any equipa
 
 ### ESP-32 Circuit Connections
 
-Below are the connections between ESP-32 microcontroller and the sensors used, being these Pzem-004t and Power Voltage Current Test Module, both can be found [here](https://eletronicadachina.com.br/medidores-de-corrente-medidor-de-energia-tensao-modulo-teste-pzem-004t-para-arduino-ac-digital-multifuncoes-watt-atual-0-100a-80-260-v):
+Below are the connections between ESP-32 microcontroller and the sensors used, being these Pzem-004t and Power Voltage Current Test Module, both can be found [here](https://eletronicadachina.com.br/medidores-de-corrente-medidor-de-energia-tensao-modulo-teste-pzem-004t-para-arduino-ac-digital-multifuncoes-watt-atual-0-100a-80-260-v).
 
 ![circuito-esp32](https://user-images.githubusercontent.com/96185134/195404957-217352f6-72d7-4121-80ac-1c24252e0553.png)
 
@@ -23,4 +23,4 @@ Below are screenshots of the main page and the measurement table, respectively, 
 
 ###### Website Repository:
 
-The website makes it possible to visualize electrical data obtained from the sensors. Please, visit the folowwing link: [voltage-current-multimeter-website](https://github.com/lvcasribeiro/voltage-current-multimeter-website)
+The website makes it possible to visualize electrical data obtained from the sensors. Please, visit the folowwing link: [voltage-current-multimeter-website](https://github.com/lvcasribeiro/voltage-current-multimeter-website).
